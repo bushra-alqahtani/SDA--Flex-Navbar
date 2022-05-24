@@ -1,0 +1,55 @@
+.nav{
+  background-color:#5C5C5C;
+   display: flex;
+  align-items:center;
+   justify-content:center;
+ 
+  
+}
+.nav-title{
+  color:white;
+  font-size:30px;
+  margin:30px;
+  
+  
+ 
+}
+ul {
+  list-style-type: none;
+  margin: 30px;
+  padding: 0;
+  
+  
+}
+
+li {
+  float: left;
+   
+}
+
+li a {
+  display: block;
+  color: #BDBDBd;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+.active{
+  color:white;
+}
+.btn{
+  margin:15px ;
+    background-color:#4BDEEB ; /* Green */
+  border:2px solid black;
+  color: white;
+  padding: 3px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  box-shadow:2px 2px black;
+  
+}
+  
+
